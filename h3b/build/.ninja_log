@@ -1,0 +1,5 @@
+# ninja log v6
+11	340	7856290669020454	CMakeFiles/h3b.dir/dog.cpp.obj	2c3f0d822845ef95
+1	343	7856290668921425	CMakeFiles/h3b.dir/main.cpp.obj	664c99e4e2185617
+6	352	7856290668970447	CMakeFiles/h3b.dir/animal.cpp.obj	28b09db861fe7e1d
+352	467	7856290672427960	h3b.exe	ffd647b806e32ed7
