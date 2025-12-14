@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-370bdf75add2831dae1e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "h6a",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "h6a::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-h6a-Debug-c076ae10edddc516d058.json",
+					"name" : "h6a",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "h6a_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-h6a_autogen-Debug-8c089b50fa75b60d54a8.json",
+					"name" : "h6a_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "h6a_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-h6a_autogen_timestamp_deps-Debug-9b8d42bfd45e90e23edb.json",
+					"name" : "h6a_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/pparv/olio-ohjelmointi/h6a/build",
+		"source" : "C:/Users/pparv/olio-ohjelmointi/h6a"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
